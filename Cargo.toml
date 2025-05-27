@@ -1,0 +1,12 @@
+[package]
+name = "operator"
+description = "Kubernetes Operator for CTF-rs, is designed to leverage Kubernetes CRDs for functionality"
+version = "0.1.0"
+edition = "2024"
+license = "AGPL-3.0-or-later"
+readme = "README.md"
+homepage = "https://github.com/libctf/operator"
+keywords = ["operator", "ctf"]
+categories = ["api-bindings"]
+
+[dependencies]
