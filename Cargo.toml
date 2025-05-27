@@ -1,5 +1,5 @@
 [package]
-name = "operator"
+name = "ctf-rs-operator"
 description = "Kubernetes Operator for CTF-rs, is designed to leverage Kubernetes CRDs for functionality"
 version = "0.1.0"
 edition = "2024"
